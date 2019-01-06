@@ -16,27 +16,27 @@ Jupyter Notebook for Python 3.6, required packages: numpy, pandas
 
 Once accessed the back stage of the survey, click on the `Data & Analysis` tab.
 
-![](images\1.png)
+![](images/1.png)
 
 Click `Export Data`
 
-![](images\2.png)
+![](images/2.png)
 
 Select `CSV` file format and click `Use Legacy Exporter` at the right upper corner.
 
-![](images\3.png)
+![](images/3.png)
 
 Click `More Options`
 
-![](images\4.png)
+![](images/4.png)
 
 Uncheck the option `Use legacy View Results format` and select `Use Choice Text`
 
-![](images\5.png)
+![](images/5.png)
 
 Click `Download`
 
-![](images\6.png)
+![](images/6.png)
 
 Successfully downloaded the original datafile from Duke Qualtrics!!
 
@@ -48,14 +48,14 @@ Move the downloaded datafile, for example `Mapping_Survey.csv`, to the same dire
 
 Open Notebook and enter the datafile name into the corresponding code cell.
 
-![](images\7.png)
+![](images/7.png)
 
 Run the code in the Notebook to process the datafile.
 
-![](images\8.png)
+![](images/8.png)
 
 #### Step 3: Special Characters in Spanish
 
 To correctly display the special characters in the `.csv` files, the simplest way is to open the `.csv` file with`Notepad` and save it once again using the `utf-8` encoding.
 
-![](images\9.png)
+![](images/9.png)
