@@ -4,6 +4,8 @@ This is a Python Jupyter notebook used to process the survey data exported from 
 
 The processed data is used to create an interactive map with ArcGIS to demonstrate the distribution and contributions of different organizations in Guatemala. [Interactive Map](http://www.sesan.gob.gt/wordpress/informacion/conectateguate/)
 
+https://www.researchgate.net/publication/359408850_Mapping_Nutrition_Interventions_in_Guatemala_To_Identify_Opportunities_to_Improve_Coverage_and_Coordination
+
 ---
 
 #### Required Software
